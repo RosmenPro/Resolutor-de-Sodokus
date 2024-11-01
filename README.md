@@ -1,4 +1,4 @@
-# Proyecto de Sudoku Solver
+# Proyecto Sudoku Solver
 
 ## Descripción
 Este proyecto es un solucionador de Sudoku interactivo desarrollado en Python utilizando la biblioteca Pygame. Permite al usuario ingresar números en un tablero de Sudoku y resolver el juego utilizando el algoritmo de backtracking.
