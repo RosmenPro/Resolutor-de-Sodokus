@@ -21,4 +21,17 @@ pip install pygame
 ```
 
 ## Actualizaciones pendientes:
-* Añadir botón de reinicio 
+* Añadir botón de reinicio
+
+## Contribute
+
+Contributions are welcome. If you have suggestions or improvements, feel free to create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
